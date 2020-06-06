@@ -6,6 +6,7 @@ public void test(String params， String num，int count) {
 	
 	Log.d("chenhui", "test start === > ");
 	int a = 1;
+	int d = 4;
 	int b = 2;
 	int c = 0;
 	c = 1+ 2;
