@@ -2,7 +2,7 @@
 
 develop创建的
 
-public void test(String params， String num) {
+public void test(String params， String num，int count) {
 	
 	Log.d("chenhui", "test start === > ");
 	int a = 1;
