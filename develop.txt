@@ -9,5 +9,6 @@ public void test(String params， String num，int count) {
 	int b = 2;
 	int c = 0;
 	c = 1+ 2;
+	int f = 10;
 	Log.d("chenhui", "test end === > ");
 }
